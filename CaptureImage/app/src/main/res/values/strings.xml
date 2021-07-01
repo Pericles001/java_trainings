@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CaptureImage</string>
+    <string name="str_label_capture_button">Capture Image</string>
+</resources>

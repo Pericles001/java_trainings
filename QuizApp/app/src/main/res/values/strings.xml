@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewQuizApp</string>
+    <string name="questionText">Question text here</string>
+    <string name="rA">c\'est une bonne reponse</string>
+    <string name="fA">c\'est une fausse reponse</string>
+
+    <string name="btnTrue">True</string>
+    <string name="btnFalse">False</string>
+    <string name="nextTxt">Next</string>
+    <string name="question_inde">Le Benin a eu son indépendance en 1996</string>
+    <string name="question_president">Patrice Talon est le premier president du Benin</string>
+    <string name="question_dev">Le Benin est un pays du tiers monde</string>
+    <string name="question_dep">Le Benin possede 25 departements</string>
+    <string name="question_front">Le Benin est limite à l\'ouest par la cote d\'ivoire</string>
+</resources>
